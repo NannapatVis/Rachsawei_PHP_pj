@@ -41,9 +41,18 @@ Rachsawei_PHP_pj/
 5. **Run the project**
    - Open a web browser and go to `http://localhost/Rachsawei_PHP_pj/`
   
-## Screenshot
-![Project Screenshot](https://drive.google.com/uc?id=1q6-xtxMStpALy8ebPZ3v41KukOoz48gP)
+### Screenshots  
+#### 🏠 Home Screen  
+<img src="assets/images/home.png" alt="Home Screen" width="500"/>  
 
+#### 📜 Menu Page  
+<img src="assets/images/menu.png" alt="Menu Page" width="500"/>  
+
+#### 🔍 Menu Detail  
+<img src="assets/images/menu_detail.png" alt="Menu Detail" width="500"/>  
+
+#### ✅ Order Complete  
+<img src="assets/images/Complete_Order.png" alt="Order Complete" width="500"/>  
 
 
 ## Technologies Used
