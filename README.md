@@ -40,6 +40,11 @@ Rachsawei_PHP_pj/
    - Edit the `config.php` file with your database credentials.
 5. **Run the project**
    - Open a web browser and go to `http://localhost/Rachsawei_PHP_pj/`
+  
+## Screenshot
+![Project Screenshot](https://drive.google.com/uc?id=1q6-xtxMStpALy8ebPZ3v41KukOoz48gP)
+
+
 
 ## Technologies Used
 - PHP
